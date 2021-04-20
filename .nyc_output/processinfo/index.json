@@ -1,0 +1,1 @@
+{"processes":{"692cbd75-3fc7-4e00-94f1-5d99d00d5958":{"parent":null,"children":["c9709b8e-e307-4ef2-8c8a-201c4dca126d"]},"c9709b8e-e307-4ef2-8c8a-201c4dca126d":{"parent":"692cbd75-3fc7-4e00-94f1-5d99d00d5958","children":[]}},"files":{"/home/usuario/ull-esit-inf-dsi-20-21-mod02-alu0101254678/src/index.ts":["c9709b8e-e307-4ef2-8c8a-201c4dca126d"]},"externalIds":{}}

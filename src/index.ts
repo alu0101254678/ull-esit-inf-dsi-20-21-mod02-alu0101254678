@@ -1,13 +1,5 @@
-/**
- * Mensaje en pantalla
- */
-console.log('Hola');
+export function suma(numero1: number, numero2: number): number {
+  return numero1 + numero2;
+} 
 
-/**
- * Devuelve un resultado
- * @param parametro parametro
- * @returns {Number}
- */
-function return_result(parametro: number) {
-  return parametro;
-}
+console.log(suma(1, 2));
